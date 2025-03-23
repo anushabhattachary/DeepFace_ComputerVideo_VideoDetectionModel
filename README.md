@@ -11,8 +11,6 @@ This project detects the gender and ethnicity of up to **10 people** in a video 
 - Supports **MP4, AVI, and live webcam** input.
 - Optimized for **fast inference**.
 
-## 🖼️ Example Output
-(Insert an image or GIF showing the detection in action)
 
 ## 📂 Dataset
 This project uses DeepFace’s pre-trained models trained on large-scale datasets.
